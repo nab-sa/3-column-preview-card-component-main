@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Lexend Deca', sans-serif;
+    color: #fff;
+}
+
+h2 {
+    font-family: 'Big Shoulders Display', cursive;
+    color: #fff;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
